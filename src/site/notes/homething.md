@@ -21,6 +21,6 @@
 * Aight
 * Quite
 
-### Good grief, David
+### Good grief, David...
 
 ![Screen Shot 2022-11-21 at 12.32.31.png](/img/user/assets/Screen%20Shot%202022-11-21%20at%2012.32.31.png)
