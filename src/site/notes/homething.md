@@ -15,4 +15,8 @@
 | Obsidian | No data |
 
 
+### Synonyms of 'yes'
 
+* Right
+* Aight
+* Quite
