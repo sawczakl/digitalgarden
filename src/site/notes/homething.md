@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homething/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/homething/","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
 # What is up my dudes
@@ -12,5 +12,7 @@
 | - | - |
 | Markdown | 17% |
 | HTML | 61% |
+| Obsidian | No data |
+
 
 
